@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+#...
+
+*.exec
+*.DS_Store
+*.gch
+*.pch
+*.exe
+*.out
+*.app
+**/bin/
+*.dSYM
