@@ -42,3 +42,4 @@
 *.app
 **/bin/
 *.dSYM
+*.docx
