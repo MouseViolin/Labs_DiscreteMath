@@ -2,7 +2,7 @@ using ComponentFinder;
 using System;
 class Program{
     static void Main(string[] args){
-        string filePath = "/Users/user/Documents/Labs_DiscreteMath/LW5/matrix.txt"; 
+        string filePath = "/Users/user/Documents/Labs_DiscreteMath/LW5/g14.txt"; 
         try
         {
             int[,] matrix = Utils.MatrixReader.ReadMatrixFromFile(filePath); 

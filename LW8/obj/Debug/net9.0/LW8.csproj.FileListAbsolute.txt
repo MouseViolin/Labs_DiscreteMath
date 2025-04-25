@@ -1,0 +1,15 @@
+/Users/user/Documents/Labs_DiscreteMath/LW8/bin/Debug/net9.0/LW8
+/Users/user/Documents/Labs_DiscreteMath/LW8/bin/Debug/net9.0/LW8.deps.json
+/Users/user/Documents/Labs_DiscreteMath/LW8/bin/Debug/net9.0/LW8.runtimeconfig.json
+/Users/user/Documents/Labs_DiscreteMath/LW8/bin/Debug/net9.0/LW8.dll
+/Users/user/Documents/Labs_DiscreteMath/LW8/bin/Debug/net9.0/LW8.pdb
+/Users/user/Documents/Labs_DiscreteMath/LW8/obj/Debug/net9.0/LW8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Labs_DiscreteMath/LW8/obj/Debug/net9.0/LW8.AssemblyInfoInputs.cache
+/Users/user/Documents/Labs_DiscreteMath/LW8/obj/Debug/net9.0/LW8.AssemblyInfo.cs
+/Users/user/Documents/Labs_DiscreteMath/LW8/obj/Debug/net9.0/LW8.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Labs_DiscreteMath/LW8/obj/Debug/net9.0/LW8.sourcelink.json
+/Users/user/Documents/Labs_DiscreteMath/LW8/obj/Debug/net9.0/LW8.dll
+/Users/user/Documents/Labs_DiscreteMath/LW8/obj/Debug/net9.0/refint/LW8.dll
+/Users/user/Documents/Labs_DiscreteMath/LW8/obj/Debug/net9.0/LW8.pdb
+/Users/user/Documents/Labs_DiscreteMath/LW8/obj/Debug/net9.0/LW8.genruntimeconfig.cache
+/Users/user/Documents/Labs_DiscreteMath/LW8/obj/Debug/net9.0/ref/LW8.dll
