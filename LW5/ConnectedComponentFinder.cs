@@ -119,7 +119,7 @@ namespace ComponentFinder
             }
         }
 
-        // DFS для построения матрицы достижимости
+       
         protected void DFSForReachability(int v, bool[] tempVisited)
         {
             int size = matrix.GetLength(0);
